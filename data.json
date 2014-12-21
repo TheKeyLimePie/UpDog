@@ -1,5 +1,9 @@
 [
   {
+    "name": "Bitcoin Core",
+    "url": "https://bitcoin.org/en/version-history"
+  },
+  {
     "name": "Dropbox",
     "url": "https://www.dropbox.com/release_notes"
   },
