@@ -76,6 +76,10 @@
     "url": "http://tortoisesvn.net/Changelog.txt"
   },
   {
+    "name": "uGet",
+    "url": "http://ugetdm.com/changelog"
+  },
+  {
     "name": "VirtualBox",
     "url": "https://www.virtualbox.org/wiki/Changelog"
   }
