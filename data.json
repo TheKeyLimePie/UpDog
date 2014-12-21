@@ -16,6 +16,10 @@
     "url": "https://www.mozilla.org/en-US/firefox/releases/"
   },
   {
+    "name": "GIMP",
+    "url": "http://www.gimp.org/release-notes/"
+  },
+  {
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org/download/release-notes/"
   },
