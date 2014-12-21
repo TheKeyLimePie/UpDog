@@ -4,6 +4,10 @@
     "url": "https://bitcoin.org/en/version-history"
   },
   {
+    "name": "BOINC",
+    "url": "https://boinc.berkeley.edu/trac/wiki/VersionHistory"
+  },
+  {
     "name": "Dropbox",
     "url": "https://www.dropbox.com/release_notes"
   },
