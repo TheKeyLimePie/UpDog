@@ -70,5 +70,9 @@
   {
     "name": "TortoiseSVN",
     "url": "http://tortoisesvn.net/Changelog.txt"
+  },
+  {
+    "name": "VirtualBox",
+    "url": "https://www.virtualbox.org/wiki/Changelog"
   }
 ]
