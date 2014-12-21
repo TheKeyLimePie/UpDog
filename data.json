@@ -86,5 +86,9 @@
   {
     "name": "VirtualBox",
     "url": "https://www.virtualbox.org/wiki/Changelog"
+  },
+  {
+    "name": "VMware Player",
+    "url": "https://www.vmware.com/support/pubs/player_pubs.html"
   }
 ]
