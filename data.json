@@ -22,5 +22,9 @@
   {
     "name": "Thunderbird",
     "url": "https://www.mozilla.org/en-US/thunderbird/releases/"
+  },
+  {
+    "name": "TortoiseSVN",
+    "url": "http://tortoisesvn.net/Changelog.txt"
   }
 ]
