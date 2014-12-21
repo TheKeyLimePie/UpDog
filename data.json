@@ -8,6 +8,10 @@
     "url": "https://www.dropbox.com/release_notes"
   },
   {
+    "name": "FFmpeg",
+    "url": "https://ffmpeg.org/changelog.html"
+  },
+  {
     "name": "Firefox",
     "url": "https://www.mozilla.org/en-US/firefox/releases/"
   },
