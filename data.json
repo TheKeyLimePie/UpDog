@@ -8,6 +8,14 @@
     "url": "https://www.mozilla.org/en-US/firefox/releases/"
   },
   {
+    "name": "Steam",
+    "url": "http://store.steampowered.com/news/?feed=steam_client"
+  },
+  {
+    "name": "Steam (Lite)",
+    "url": "http://www.steampowered.com/platform/update_history/index.php"
+  },
+  {
     "name": "Thunderbird",
     "url": "https://www.mozilla.org/en-US/thunderbird/releases/"
   }
