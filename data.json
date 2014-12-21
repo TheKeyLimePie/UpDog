@@ -1,5 +1,9 @@
 [
   {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/release_notes"
+  },
+  {
     "name": "Firefox",
     "url": "https://www.mozilla.org/en-US/firefox/releases/"
   },
