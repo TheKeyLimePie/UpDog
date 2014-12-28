@@ -88,7 +88,7 @@
 	var names = new Array();
 	
 	function getUrl (name) {
-		return map[name];
+		return map[name.toLowerCase()];
 	}
 
 	console.log("Loading JSON data...");
@@ -97,7 +97,7 @@
 		console.log("Loaded JSON data!");
 		
 		for (i = 0; i < json.length; ++i) {
-			map[json[i].name] = json[i].url;
+			map[json[i].name.toLowerCase()] = json[i].url;
 			names.push(json[i].name);
 		}
 		
