@@ -109,7 +109,10 @@
 	$("#button").button();
 	$("#button").click(function() {
 		//alert(getUrl($("#autocomplete").val()));
-		window.open(getUrl($("#autocomplete").val()), '_blank');
+		var url = getUrl($("#autocomplete").val());
+		if (url) {
+			window.open(url, '_blank');
+		}
 	});
 </script>
 </body>
