@@ -90,6 +90,13 @@
 	function getUrl (name) {
 		return map[name.toLowerCase()];
 	}
+	
+	function openChangeLog (name) {
+		var url = getUrl(name);
+		if (url) {
+			window.open(url, '_blank');
+		}
+	}
 
 	console.log("Loading JSON data...");
 	
@@ -102,17 +109,17 @@
 		}
 		
 		$("#autocomplete").autocomplete({
-			source: names
+			source: names,
+			select: function (event, ui) {
+				openChangeLog(ui.item.value);
+			}
 		});
 	});
 	
 	$("#button").button();
 	$("#button").click(function() {
 		//alert(getUrl($("#autocomplete").val()));
-		var url = getUrl($("#autocomplete").val());
-		if (url) {
-			window.open(url, '_blank');
-		}
+		openChangeLog($("#autocomplete").val());
 	});
 </script>
 </body>
