@@ -40,8 +40,12 @@
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
   },
   {
-    "name": "LibreOffice",
-    "url": "https://www.libreoffice.org/download/release-notes/"
+    "name": "Git",
+    "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
+  },
+  {
+    "name": "HexChat",
+    "url": "https://hexchat.readthedocs.org/en/latest/changelog.html"
   },
   {
     "name": "Minecraft (unofficial)",
