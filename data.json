@@ -98,5 +98,9 @@
   {
     "name": "VMware Player",
     "url": "https://www.vmware.com/support/pubs/player_pubs.html"
+  },
+  {
+    "name": "WinSCP",
+    "url": "http://winscp.net/eng/docs/history"
   }
 ]
