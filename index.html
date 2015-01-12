@@ -109,7 +109,19 @@
 		}
 		
 		$("#autocomplete").autocomplete({
-			source: names,
+			source: function (given, callback) {
+				var term = given.term.trim().toLowerCase();
+				var matches = new Array();
+				if (term.length) {
+					for (i in names) {
+						var name = names[i].toLowerCase();
+						if (name.search(term) > -1) {
+							matches.push(names[i]);
+						}
+					}
+				}
+				callback(matches);
+			},
 			select: function (event, ui) {
 				openChangeLog(ui.item.value);
 			}
