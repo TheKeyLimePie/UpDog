@@ -44,10 +44,6 @@
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
   },
   {
-    "name": "Git",
-    "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
-  },
-  {
     "name": "HexChat",
     "url": "https://hexchat.readthedocs.org/en/latest/changelog.html"
   },
