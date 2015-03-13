@@ -68,6 +68,10 @@
     "url": "http://notepad-plus-plus.org/news/"
   },
   {
+    "name": "Open Broadcaster Software (OBS)",
+    "url": "https://obsproject.com/changelog.txt"
+  },
+  {
     "name": "Pidgin",
     "url": "https://developer.pidgin.im/wiki/ChangeLog"
   },
