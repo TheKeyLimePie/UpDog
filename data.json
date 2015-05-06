@@ -76,6 +76,10 @@
     "url": "http://www.mp3tag.de/en/changelog.html"
   },
   {
+    "name": "NetBeans",
+    "url": "https://netbeans.org/community/releases/"
+  },
+  {
     "name": "Notepad++",
     "url": "http://notepad-plus-plus.org/news/"
   },
