@@ -12,6 +12,10 @@
     "url": "https://www.piriform.com/ccleaner/version-history"
   },
   {
+    "name": "debian",
+    "url": "https://www.debian.org/releases/stable/releasenotes"
+  },
+  {
     "name": "Defraggler",
     "url": "https://www.piriform.com/defraggler/version-history"
   },
