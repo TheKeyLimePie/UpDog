@@ -24,6 +24,10 @@
     "url": "https://www.dropbox.com/release_notes"
   },
   {
+    "name": "Fedora",
+    "url": "https://docs.fedoraproject.org/en-US/index.html"
+  },
+  {
     "name": "FFDec (Free Flash Decompiler)",
     "url": "https://www.free-decompiler.com/flash/changeslog"
   },
