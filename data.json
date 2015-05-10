@@ -88,6 +88,10 @@
     "url": "https://obsproject.com/changelog.txt"
   },
   {
+    "name": "osu!",
+    "url": "https://osu.ppy.sh/p/changelog"
+  },
+  {
     "name": "Pidgin",
     "url": "https://developer.pidgin.im/wiki/ChangeLog"
   },
