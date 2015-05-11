@@ -64,6 +64,10 @@
     "url": "https://www.java.com/en/download/faq/release_changes.xml"
   },
   {
+    "name": "Jitsi",
+    "url": "https://download.jitsi.org/jitsi/windows/updates/"
+  },
+  {
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org/download/release-notes/"
   },
