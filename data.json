@@ -144,6 +144,10 @@
     "url": "https://www.vmware.com/support/pubs/player_pubs.html"
   },
   {
+    "name": "WinMerge",
+    "url": "http://winmerge.org/docs/changelog.php"
+  },
+  {
     "name": "WinSCP",
     "url": "http://winscp.net/eng/docs/history"
   }
