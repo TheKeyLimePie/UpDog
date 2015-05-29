@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="us">
+<html lang="en">
 <!--
 	UpDog - Copyright 2014 PotcFdk
 
@@ -23,6 +23,21 @@
 	body{
 		font: 62.5% "Trebuchet MS", sans-serif;
 		margin: 50px;
+	}
+	.container1 {
+		position: absolute;
+		top: 10%;
+		left: 0;
+		height: 80%;
+		width: 100%;
+		text-align: center;
+	}
+	.textinput {
+		width: 20em;
+		font-size: x-large;
+	}
+	button {
+		margin-top: 2em;
 	}
 	.demoHeaders {
 		margin-top: 2em;
@@ -64,22 +79,24 @@
 	</style>
 </head>
 <body>
+<div class="container1">
+	<h1>Welcome to UpDog!</h1>
 
-<h1>Welcome to UpDog!</h1>
+	<div class="ui-widget">
+		<p>Type in and select the name of an application to view its changelog / release notes.<br />
+		<a href="https://github.com/PotcFdk/UpDog" target="_blank">Visit this project on GitHub</a>
+			to request more software, or to add them yourself and to post a pull request.</p>
+	</div>
 
-<div class="ui-widget">
-	<p>Type in and select the name of an application to view its changelog / release notes.<br />
-	<a href="https://github.com/PotcFdk/UpDog" target="_blank">Visit this project on GitHub</a>
-		to request more software, or to add them yourself and to post a pull request.</p>
-</div>
-
-<h2 class="demoHeaders">Search:</h2>
-<div>
-	<input id="autocomplete" title="project name" onFocus="this.select()">
-	<button id="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button">
-		<span class="ui-button-text">Open Release Notes</span>
-	</button>
-</div>
+	<h2 class="demoHeaders">Search:</h2>
+	<div>
+		<input id="autocomplete" class="textinput" title="project name" onFocus="this.select()">
+		<br />
+		<button id="button" class="ui-button ui-button-text-only" role="button">
+			<span class="ui-button-text">Open Release Notes</span>
+		</button>
+	</div>
+</div> <!-- container1 -->
 
 <script src="jquery-2.1.3.js"></script>
 <script src="jquery-ui.js"></script>
