@@ -104,6 +104,10 @@
     "url": "http://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
   {
+    "name": "Sandboxie",
+    "url": "http://www.sandboxie.com/?VersionChanges"
+  },
+  {
     "name": "ShareX",
     "url": "https://github.com/ShareX/ShareX/wiki/Changelog"
   },
