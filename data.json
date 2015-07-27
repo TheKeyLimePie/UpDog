@@ -24,6 +24,10 @@
     "url": "https://www.dropbox.com/release_notes"
   },
   {
+    "name": "F-Droid",
+    "url": "https://gitlab.com/fdroid/fdroidclient/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Fedora",
     "url": "https://docs.fedoraproject.org/en-US/index.html"
   },
