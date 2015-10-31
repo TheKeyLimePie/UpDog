@@ -112,6 +112,14 @@
     "url": "http://www.sandboxie.com/?VersionChanges"
   },
   {
+    "name": "Seafile client",
+    "url": "https://seacloud.cc/group/3/wiki/client-changelog/"
+  },
+  {
+    "name": "Seafile server",
+    "url": "https://seacloud.cc/group/3/wiki/server-changelog/"
+  },
+  {
     "name": "ShareX",
     "url": "https://github.com/ShareX/ShareX/wiki/Changelog"
   },
