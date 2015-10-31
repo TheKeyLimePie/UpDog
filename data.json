@@ -132,6 +132,10 @@
     "url": "https://www.mozilla.org/en-US/thunderbird/releases/"
   },
   {
+    "name": "Tomahawk Player",
+    "url": "https://github.com/tomahawk-player/tomahawk/blob/master/ChangeLog"
+  },
+  {
     "name": "TortoiseGit",
     "url": "https://code.google.com/p/tortoisegit/wiki/ReleaseNotes"
   },
