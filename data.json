@@ -178,5 +178,9 @@
   {
     "name": "WinSCP",
     "url": "http://winscp.net/eng/docs/history"
+  },
+  {
+    "name": "ZNC",
+    "url": "http://wiki.znc.in/ChangeLog/"
   }
 ]
