@@ -168,6 +168,10 @@
     "url": "https://www.virtualbox.org/wiki/Changelog"
   },
   {
+    "name": "VLC media player",
+    "url": "https://www.videolan.org/vlc/releases/"
+  },
+  {
     "name": "VMware Player",
     "url": "https://www.vmware.com/support/pubs/player_pubs.html"
   },
