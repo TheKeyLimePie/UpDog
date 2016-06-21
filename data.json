@@ -12,6 +12,10 @@
     "url": "https://www.piriform.com/ccleaner/version-history"
   },
   {
+    "name": "Conversations",
+    "url": "https://github.com/siacs/Conversations/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Debian",
     "url": "https://www.debian.org/releases/stable/releasenotes"
   },
