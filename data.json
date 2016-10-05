@@ -1,5 +1,9 @@
 [
   {
+    "name": "Audacity",
+    "url": "http://wiki.audacityteam.org/wiki/Release_Notes"
+  },
+  {
     "name": "Bitcoin Core",
     "url": "https://bitcoin.org/en/version-history"
   },
