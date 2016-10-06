@@ -1,5 +1,9 @@
 [
   {
+    "name": "7-Zip",
+    "url": "http://www.7-zip.org/history.txt"
+  },
+  {
     "name": "Audacity",
     "url": "http://wiki.audacityteam.org/wiki/Release_Notes"
   },
@@ -36,6 +40,10 @@
     "url": "http://www.exactaudiocopy.de/en/index.php/resources/whats-new/whats-new/"
   },
   {
+    "name": "Ext2Fsd for Windows",
+    "url": "http://www.ext2fsd.com/?cat=3"
+  },
+  {
     "name": "F-Droid",
     "url": "https://gitlab.com/fdroid/fdroidclient/blob/master/CHANGELOG.md"
   },
@@ -70,6 +78,10 @@
   {
     "name": "Git",
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
+  },
+  {
+    "name": "Gpg4win",
+    "url": "https://www.gpg4win.org/change-history.html"
   },
   {
     "name": "HandBrake",
