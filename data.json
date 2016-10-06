@@ -32,6 +32,10 @@
     "url": "https://www.dropbox.com/release_notes"
   },
   {
+    "name": "Exact Audio Copy",
+    "url": "http://www.exactaudiocopy.de/en/index.php/resources/whats-new/whats-new/"
+  },
+  {
     "name": "F-Droid",
     "url": "https://gitlab.com/fdroid/fdroidclient/blob/master/CHANGELOG.md"
   },
@@ -108,6 +112,10 @@
     "url": "https://obsproject.com/changelog.txt"
   },
   {
+    "name": "OpenVPN",
+    "url": "https://openvpn.net/index.php/open-source/documentation/change-log.html"
+  },
+  {
     "name": "osu!",
     "url": "https://osu.ppy.sh/p/changelog"
   },
@@ -142,6 +150,10 @@
   {
     "name": "Steam (Lite)",
     "url": "http://www.steampowered.com/platform/update_history/index.php"
+  },
+  {
+    "name": "Syncplay",
+    "url": "http://syncplay.pl/changelog/"
   },
   {
     "name": "Texmaker",
