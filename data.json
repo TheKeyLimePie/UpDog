@@ -108,6 +108,10 @@
     "url": "https://obsproject.com/changelog.txt"
   },
   {
+    "name": "OpenVPN",
+    "url": "https://openvpn.net/index.php/open-source/documentation/change-log.html"
+  },
+  {
     "name": "osu!",
     "url": "https://osu.ppy.sh/p/changelog"
   },
