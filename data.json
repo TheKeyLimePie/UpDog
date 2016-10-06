@@ -76,6 +76,10 @@
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
   },
   {
+    "name": "Gpg4win",
+    "url": "https://www.gpg4win.org/change-history.html"
+  },
+  {
     "name": "HandBrake",
     "url": "https://github.com/HandBrake/HandBrake/releases"
   },
