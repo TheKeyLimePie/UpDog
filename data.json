@@ -92,6 +92,10 @@
     "url": "https://hexchat.readthedocs.org/en/latest/changelog.html"
   },
   {
+    "name": "HTTPS Everywhere",
+    "url": "https://www.eff.org/files/Changelog.txt"
+  },
+  {
     "name": "Java",
     "url": "https://www.java.com/en/download/faq/release_changes.xml"
   },
