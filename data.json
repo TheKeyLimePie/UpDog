@@ -140,6 +140,14 @@
     "url": "https://bitbucket.org/pidgin/www/src/tip/htdocs/ChangeLog?fileviewer=file-view-default"
   },
   {
+    "name": "Privacy Badger (Chrome)",
+    "url": "https://github.com/EFForg/privacybadgerchrome/blob/master/doc/Changelog"
+  },
+  {
+    "name": "Privacy Badger (Firefox)",
+    "url": "https://github.com/EFForg/privacybadgerfirefox/blob/master/doc/Changelog"
+  },
+  {
     "name": "PuTTY",
     "url": "http://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
