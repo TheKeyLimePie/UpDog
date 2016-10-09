@@ -120,6 +120,10 @@
     "url": "https://netbeans.org/community/releases/"
   },
   {
+    "name": "netdata",
+    "url": "https://github.com/firehol/netdata/blob/master/ChangeLog"
+  },
+  {
     "name": "Notepad++",
     "url": "http://notepad-plus-plus.org/news/"
   },
