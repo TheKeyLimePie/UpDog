@@ -4,6 +4,10 @@
     "url": "http://www.7-zip.org/history.txt"
   },
   {
+    "name": "Anaconda",
+    "url": "https://docs.anaconda.com/anaconda/release-notes"
+  },
+  {
     "name": "Audacity",
     "url": "http://wiki.audacityteam.org/wiki/Release_Notes"
   },
@@ -182,6 +186,10 @@
   {
     "name": "SmartGit",
     "url": "https://www.syntevo.com/smartgit/changelog.txt"
+  },
+  {
+    "name": "Spyder IDE",
+    "url": "https://github.com/spyder-ide/spyder/blob/master/CHANGELOG.md"
   },
   {
     "name": "Steam",
