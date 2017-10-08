@@ -100,6 +100,10 @@
     "url": "https://www.eff.org/files/Changelog.txt"
   },
   {
+    "name": "IrfanView",
+    "url": "http://www.irfanview.com/main_history.htm"
+  },
+  {
     "name": "Java",
     "url": "https://www.java.com/en/download/faq/release_changes.xml"
   },
@@ -114,6 +118,10 @@
   {
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org/download/release-notes/"
+  },
+  {
+    "name": "MATLAB",
+    "url": "https://de.mathworks.com/help/matlab/release-notes.html"
   },
   {
     "name": "Minecraft (unofficial)",
