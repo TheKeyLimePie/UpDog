@@ -248,6 +248,10 @@
     "url": "https://www.virtualbox.org/wiki/Changelog"
   },
   {
+    "name": "Visual Studio Code (vscode)",
+    "url": "https://code.visualstudio.com/updates/"
+  },
+  {
     "name": "VLC media player",
     "url": "https://www.videolan.org/vlc/releases/"
   },
