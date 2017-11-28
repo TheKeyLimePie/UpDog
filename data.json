@@ -156,6 +156,10 @@
     "url": "https://osu.ppy.sh/p/changelog"
   },
   {
+    "name": "ownCloud",
+    "url": "https://owncloud.org/changelog/"
+  },
+  {
     "name": "Pidgin",
     "url": "https://bitbucket.org/pidgin/www/src/tip/htdocs/ChangeLog?fileviewer=file-view-default"
   },
