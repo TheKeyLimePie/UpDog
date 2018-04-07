@@ -84,6 +84,10 @@
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
   },
   {
+    "name": "GitLab Community Edition",
+    "url": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Gpg4win",
     "url": "https://www.gpg4win.org/change-history.html"
   },
