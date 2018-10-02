@@ -24,6 +24,10 @@
     "url": "https://www.piriform.com/ccleaner/version-history"
   },
   {
+    "name": "Certbot",
+    "url": "https://github.com/certbot/certbot/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Conversations",
     "url": "https://github.com/siacs/Conversations/blob/master/CHANGELOG.md"
   },
