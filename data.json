@@ -260,6 +260,10 @@
     "url": "http://www.alexpage.de/usb-image-tool/changelog/"
   },
   {
+    "name": "VeraCrypt",
+    "url": "https://www.veracrypt.fr/en/Release%20Notes.html"
+  },
+  {
     "name": "VirtualBox",
     "url": "https://www.virtualbox.org/wiki/Changelog"
   },
