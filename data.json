@@ -164,6 +164,10 @@
     "url": "https://nextcloud.com/changelog/"
   },
   {
+    "name": "nginx",
+    "url": "https://nginx.org/en/CHANGES"
+  },
+  {
     "name": "Notepad++",
     "url": "http://notepad-plus-plus.org/news/"
   },
