@@ -296,20 +296,12 @@
     "url": "https://www.vmware.com/support/pubs/player_pubs.html"
   },
   {
-    "name": "Windows 10 1703",
-    "url": "https://support.microsoft.com/en-us/help/4018124"
+    "name": "Windows 10 1803",
+    "url": "https://support.microsoft.com/en-us/help/4099479"
   },
   {
     "name": "Windows 10 1607 and Windows Server 2016",
     "url": "https://support.microsoft.com/en-us/help/4000825"
-  },
-  {
-    "name": "Windows 10 1511",
-    "url": "https://support.microsoft.com/en-us/help/4000824"
-  },
-  {
-    "name": "Windows 10 initial version released July 2015",
-    "url": "https://support.microsoft.com/en-us/help/4000823"
   },
   {
     "name": "WinMerge",
