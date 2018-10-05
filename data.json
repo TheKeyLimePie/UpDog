@@ -244,6 +244,10 @@
     "url": "https://syncplay.pl/changelog/"
   },
   {
+    "name": "TensorFlow",
+    "url": "https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md"
+  },
+  {
     "name": "Texmaker",
     "url": "http://www.xm1math.net/texmaker/log.html"
   },
