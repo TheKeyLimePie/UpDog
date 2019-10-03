@@ -96,6 +96,10 @@
     "url": "https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes"
   },
   {
+    "name": "GitHub Desktop",
+    "url": "https://desktop.github.com/release-notes/"
+  },
+  {
     "name": "GitLab Community Edition",
     "url": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
   },
