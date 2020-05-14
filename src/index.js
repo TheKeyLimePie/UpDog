@@ -4,7 +4,7 @@ import 'jquery-ui/autocomplete';
 import 'jquery-ui/button';
 import 'jquery-ui-css/all.css';
 
-const json = require('./data.json');
+const json = require('../data.json');
 
 //require("jquery-ui.theme.css");
 
