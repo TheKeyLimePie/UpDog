@@ -1,8 +1,10 @@
+const fs = require('fs');
 const path = require('path');
 const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const HtmlWebpackBannerPlugin = require('@potcfdk/html-webpack-banner-plugin');
 
-module.exports = {
+module.exports = env => ({
 	entry: './src/index.js',
 	output: {
 		filename: 'main.js',
@@ -31,15 +33,20 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			template: 'src/index.html'
+			template: 'src/index.html',
+			minify: {
+				collapseWhitespace: true
+			}
+		}),
+		new HtmlWebpackBannerPlugin({
+			banner: Array.from(fs.readFileSync('src/index.html').toString().matchAll(/<!\-\-(([^]|[\r\n])*?)\-\->/g)).filter(c => c[1].match(/Copyright/))[0][1]
 		})
 	],
 	resolve: {
 		alias: {
 			jquery: "jquery/src/jquery",
-			//modules: path.join(__dirname, "node_modules"),
 			'jquery-ui': 'jquery-ui/ui/widgets',
 			'jquery-ui-css': 'jquery-ui/../../themes/base'
 		}
 	}
-};
+});
