@@ -4,22 +4,23 @@ import 'jquery-ui/autocomplete';
 import 'jquery-ui/button';
 import 'jquery-ui-css/all.css';
 
+/**
+ * @typedef {Object} UpDogEntry
+ * @property {String} name
+ * @property {String} url
+ */
+
+/** @type {UpDogEntry[]} **/
 const json = require('../data.json');
 
-//require("jquery-ui.theme.css");
+let map = {};
+let names = [];
 
-var map = new Object();
-var names = new Array();
+const getUrl = name => map[name.toLowerCase()];
 
-function getUrl(name) {
-	return map[name.toLowerCase()];
-}
-
-function openChangeLog(name) {
-	let url = getUrl(name);
-	if (url) {
-		window.open(url, '_blank');
-	}
+const openChangeLog = name => {
+	const url = getUrl(name);
+	return url && window.open(url, '_blank');
 }
 
 json
@@ -38,7 +39,8 @@ $("#autocomplete").autocomplete({
 	}
 });
 
-$("#button").button();
-$("#button").click(function () {
-	openChangeLog($("#autocomplete").val());
-});
+$("#button")
+	.button()
+	.click(function () {
+		openChangeLog($("#autocomplete").val());
+	});
