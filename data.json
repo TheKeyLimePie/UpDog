@@ -192,6 +192,30 @@
     "url": "https://owncloud.org/changelog/"
   },
   {
+    "name": "Philips Hue Accessories",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/accessories"
+  },
+  {
+    "name": "Philips Hue Android App",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/android"
+  },
+  {
+    "name": "Philips Hue Bridge",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/bridge"
+  },
+  {
+    "name": "Philips Hue iOS App",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/ios"
+  },
+  {
+    "name": "Philips Hue Lamps & Fixtures",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/lamps"
+  },
+  {
+    "name": "Philips Hue Play HDMI Sync Box",
+    "url": "https://www.philips-hue.com/en-us/support/release-notes/philips-hue-play-hdmi-sync-box"
+  },
+  {
     "name": "Pidgin",
     "url": "https://bitbucket.org/pidgin/www/src/tip/htdocs/ChangeLog?fileviewer=file-view-default"
   },
