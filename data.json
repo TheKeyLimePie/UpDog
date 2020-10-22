@@ -24,6 +24,10 @@
     "url": "https://www.piriform.com/ccleaner/version-history"
   },
   {
+    "name": "Ceph",
+    "url": "https://docs.ceph.com/en/latest/releases/"
+  },
+  {
     "name": "Certbot",
     "url": "https://github.com/certbot/certbot/blob/master/CHANGELOG.md"
   },
