@@ -236,6 +236,10 @@
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
   {
+    "name": "Redash",
+    "url": "https://github.com/getredash/redash/blob/master/CHANGELOG.md"
+  },
+  {
     "name": "Sandboxie",
     "url": "https://www.sandboxie.com/VersionChanges"
   },
