@@ -236,6 +236,10 @@
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/changes.html"
   },
   {
+    "name": "Redmine",
+    "url": "https://www.redmine.org/projects/redmine/wiki/changelog"
+  },
+  {
     "name": "Sandboxie",
     "url": "https://www.sandboxie.com/VersionChanges"
   },
